@@ -3,3 +3,5 @@ POST /api/users 201 20 ms - 33
 GET /api/users 200 4 ms - 26 
 GET /api/users 200 1 ms - 26 
 GET /api/users 200 1 ms - 26 
+GET / 200 1 ms - 21 
+GET /api/users 200 2 ms - 26 
